@@ -52,11 +52,7 @@ const Navbar = () => {
             className="flex cursor-pointer items-center gap-3"
           >
             <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-blue-600 text-xl font-bold text-white">
-              <img
-  src="/logo.png"
-  alt="Immense Education Hub Logo"
-  className="h-12 w-12 rounded-xl object-contain"
-/>
+             I
             </div>
 
             <div className="hidden sm:block">

@@ -41,11 +41,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-blue-600 text-xl font-bold text-white">
-                <img
-  src="/logo.png"
-  alt="Immense Education Hub Logo"
-  className="h-12 w-12 rounded-xl object-contain"
-/>
+               I
               </div>
 
               <div>

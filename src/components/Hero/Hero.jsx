@@ -100,7 +100,7 @@ const Hero = () => {
                 key={item.label}
                 className="rounded-2xl bg-white p-5 text-center shadow-lg"
               >
-                <h2 className="text-3xl font-bold text-blue-600">
+                <h2 className="text-2xl font-bold text-blue-600">
                   {item.number}
                 </h2>
 

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import FacultyCard from "./FacultyCard";
-import { faculty } from "./facultyData";
+import { faculty } from "./FacultyData";
 
 const Faculty = () => {
   return (

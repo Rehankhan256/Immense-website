@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Play, Star } from "lucide-react";
 
 import heroImage from "../../assets/hero5.jpeg";
-import { badges, stats } from "./heroData";
+import { badges, stats } from "./HeroData";
 
 const Hero = () => {
   return (

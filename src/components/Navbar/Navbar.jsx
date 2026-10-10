@@ -4,7 +4,7 @@ import { Menu } from "lucide-react";
 
 import NavItem from "./NavItem";
 import MobileMenu from "./MobileMenu";
-import { navLinks } from "./navLinks";
+import { navLinks } from "./NavLinks";
 import logo from "../../assets/logo.jpeg"
 
 const Navbar = () => {

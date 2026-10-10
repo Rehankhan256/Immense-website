@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import GalleryCard from "./GalleryCard";
-import { gallery } from "./galleryData";
+import { gallery } from "./GalleryData";
 
 const Gallery = () => {
   return (

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Send } from "lucide-react";
-import { courseOptions } from "./courseList";
+import { courseOptions } from "./CourseList";
 
 const WHATSAPP_NUMBER = "919009990972"; // Replace with your WhatsApp number
 

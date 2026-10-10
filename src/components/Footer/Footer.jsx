@@ -13,7 +13,7 @@ import {
   courseLinks,
   contactInfo,
   socialLinks,
-} from "./footerLinks";
+} from "./FooterLinks";
 
 const iconMap = {
   Facebook: FaFacebookF,
